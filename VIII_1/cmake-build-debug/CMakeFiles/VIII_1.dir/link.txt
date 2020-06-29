@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/VIII_1.dir/main.cpp.o CMakeFiles/VIII_1.dir/CGraph.cpp.o CMakeFiles/VIII_1.dir/MyString.cpp.o CMakeFiles/VIII_1.dir/swimpool.cpp.o  -o VIII_1 

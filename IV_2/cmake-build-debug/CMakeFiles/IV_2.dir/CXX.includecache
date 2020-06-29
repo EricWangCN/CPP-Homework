@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/CStudentMng.cpp
+CStudentMng.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/CStudentMng.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/CStudentMng.h
+Student.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/Student.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/MyString.h
+iostream
+-
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/Student.h
+MyString.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/MyString.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/main.cpp
+Student.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/Student.h
+CStudentMng.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/IV_2/CStudentMng.h
+

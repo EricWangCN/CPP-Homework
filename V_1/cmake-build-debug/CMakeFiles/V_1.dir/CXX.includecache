@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/Alley.h
+Rectangle.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/Rectangle.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/CSwimpool.h
+Rectangle.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/Rectangle.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/MyString.h
+iostream
+-
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/Rectangle.h
+MyString.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/MyString.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/SwimmingPool.h
+Rectangle.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/Rectangle.h
+Alley.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/Alley.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/main.cpp
+iostream
+-
+SwimmingPool.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/SwimmingPool.h
+CSwimpool.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/V_1/CSwimpool.h
+

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/VI_1/main.cpp
+set
+-
+map
+-
+queue
+-
+deque
+-
+cstdio
+-
+string
+-
+vector
+-
+math.h
+-
+time.h
+-
+utility
+-
+cstdlib
+-
+sstream
+-
+cstring
+-
+stdio.h
+-
+iomanip
+-
+iostream
+-
+algorithm
+-
+

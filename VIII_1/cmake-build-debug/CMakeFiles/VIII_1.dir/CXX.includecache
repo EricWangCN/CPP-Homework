@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/CGraph.cpp
+CGraph.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/CGraph.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/CGraph.h
+iostream
+-
+math.h
+-
+fstream
+-
+MyString.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/MyString.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/MyString.h
+iostream
+-
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/main.cpp
+swimpool.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/swimpool.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/swimpool.cpp
+swimpool.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/swimpool.h
+
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/swimpool.h
+CGraph.h
+/Users/wangzilong/Desktop/Study/Assignment/C++/VIII_1/CGraph.h
+

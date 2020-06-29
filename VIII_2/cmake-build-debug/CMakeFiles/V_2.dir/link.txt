@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/V_2.dir/main.cpp.o CMakeFiles/V_2.dir/MyString.cpp.o CMakeFiles/V_2.dir/testMyStringIO.cpp.o CMakeFiles/V_2.dir/Student.cpp.o CMakeFiles/V_2.dir/CCollegeStudent.cpp.o  -o V_2 
